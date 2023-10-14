@@ -1,4 +1,5 @@
-{
+{  
+
 	"info": {
 		"_postman_id": "aefa2fb0-f8b6-4ead-9043-5fe824790ec0",
 		"name": "day1",
@@ -58,6 +59,7 @@
 						"ecom",
 						"auth",
 						"login"
+						
 					]
 				}
 			},
